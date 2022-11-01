@@ -1,4 +1,4 @@
-import React from "react";ё
+import React from "react";
 import Button from "../button/Button";
 import {useTelegram} from "../../hooks/useTelegram";
 
