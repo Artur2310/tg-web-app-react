@@ -1,4 +1,5 @@
-import React from "react";
+import React from "react";ё
+import Button from "../button/Button";
 import {useTelegram} from "../../hooks/useTelegram";
 
 const Header = () => {
